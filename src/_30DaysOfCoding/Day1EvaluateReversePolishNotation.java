@@ -2,6 +2,7 @@ package _30DaysOfCoding;
 
 import exception.IllegalOperatorException;
 
+import java.util.ArrayList;
 import java.util.Stack;
 
 public class Day1EvaluateReversePolishNotation {
@@ -34,5 +35,4 @@ public class Day1EvaluateReversePolishNotation {
         };
         return result;
     }
-
 }
